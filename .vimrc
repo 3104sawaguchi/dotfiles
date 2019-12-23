@@ -11,7 +11,7 @@ set background=dark
 set laststatus=2
 set virtualedit=onemore
 set cursorline
-"set cursorcolumn
+set cursorcolumn
 set ignorecase
 set smartcase
 set wrapscan
